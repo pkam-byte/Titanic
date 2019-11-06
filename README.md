@@ -14,4 +14,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. On
 
 This is a small sample of the analysis of what sorts of people were likely to survive.
 
-This Notebook shows: Importing Data with Pandas, Cleaning data and Exploring data through various Visualizations with Matplotlib.
+This Notebook shows: 
+- Importing Data with Pandas
+- Cleaning data
+- Exploring data through various Visualizations with Matplotlib.
